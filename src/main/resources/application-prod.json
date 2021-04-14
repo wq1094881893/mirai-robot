@@ -1,15 +1,15 @@
 {
   "appEnable": 1,
-  "qq": "2696864316",
-  "password": "...",
+  "qq": "3554037032",
+  "password": "wq158622809",
   "plugins": [
     {
-      "name": "一言",
+      "name": "Yomi",
       "enable": 1,
       "handler": "cn.zjiali.robot.handler.SenHandler",
       "configClass": "cn.zjiali.robot.config.plugin.SenConfig",
       "properties": {
-        "command": "一言"
+        "command": "Yomi"
       }
     },
     {
